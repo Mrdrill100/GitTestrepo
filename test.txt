@@ -6,3 +6,4 @@ fetch changes to the x branch
 git new changes
 
 git last fetch command.
+ git pull changes
