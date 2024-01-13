@@ -1,1 +1,2 @@
 New merge stratigy.
+Git fetch command
