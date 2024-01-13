@@ -3,3 +3,6 @@ hello everyone.
 
 recursive changes have been made.
 git fetch changes 
+
+
+git pull changes
